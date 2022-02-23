@@ -1,7 +1,7 @@
 # 2022 iOS Portfolios
 
 ### Spring 2022
-* [Gaurav P] (https://github.com/GParacha/iOS-Portfolio.git)
+* [Gaurav P](https://github.com/GParacha/iOS-Portfolio/blob/10e8ef8a66edbaee96c6c2c7e25b855b8d0ca95f/README.md)
 * [Evan](https://github.com/EvanRista/iOS-Portfolio/blob/main/README.md)
 * [Bilal](https://github.com/BillA-Dev/iOS-Portfolio-Ahmed22/blob/main/README.md)
 * [Rishi](https://github.com/EPCompSci/portfolio-rishi-n)
