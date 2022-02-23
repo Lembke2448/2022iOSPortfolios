@@ -12,4 +12,4 @@
 * [Elliott](https://github.com/ElliottB678/IOS-Portfolio-Brown22)
 * [Noah](https://github.com/haonnoah123/IOS-Portfolio-Rubin22)
 * [Erik](https://github.com/90306561/Portfolio.git)
-* [Pranay](https://github.com/PranaySingh04/iOS-Portfolio-Singh22
+* [Pranay](https://github.com/PranaySingh04/iOS-Portfolio-Singh22)
