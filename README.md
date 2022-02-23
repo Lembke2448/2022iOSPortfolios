@@ -11,3 +11,4 @@
 * [Max](https://github.com/colenelson33/iOS-Portfolio-Johnson22)
 * [Elliott](https://github.com/ElliottB678/IOS-Portfolio-Brown22)
 * [Noah](https://github.com/haonnoah123/IOS-Portfolio-Rubin22)
+* [Erik](https://github.com/90306561/Portfolio.git)
