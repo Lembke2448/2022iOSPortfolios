@@ -2,7 +2,7 @@
 
 ### Spring 2022
 * [Gaurav P](https://github.com/GParacha/iOS-Portfolio/blob/10e8ef8a66edbaee96c6c2c7e25b855b8d0ca95f/README.md)
-* [Evan](https://github.com/EvanRista/iOS-Portfolio/blob/main/README.md)
+* [Evan R](https://github.com/EvanRista/iOS-Portfolio/blob/main/README.md)
 * [Bilal](https://github.com/BillA-Dev/iOS-Portfolio-Ahmed22/blob/main/README.md)
 * [Rishi](https://github.com/EPCompSci/portfolio-rishi-n)
 * [Rohit](https://github.com/RohitP123/iOS-Portfolio-Patil22)
@@ -16,4 +16,4 @@
 * [Pranay](https://github.com/PranaySingh04/iOS-Portfolio-Singh22)
 * [Adhava](https://github.com/Adhava805/IOS-Portfolio-Nandhiyar22)
 * [Varun](https://github.com/VarunKollipara/iOS-Portfolio-Kollipara22)
-
+* [Evan L](https://github.com/Lembke2448/iOS-Portfolio-Lembke22)
